@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @justinndidit
 - 👀 I’m interested in Everything Tech
-- 🌱 I’m currently learning Java for backend
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me olasojifavour2020@gmail.com
+- 🌱 I’m currently learning JavaScript, nodejs, TypeScript, everything JavaScript
+- 💞️ I’m looking to collaborate on Web development related projects
+- 📫 How to reach me olasojifavour2021@gmail.com
 
 <!---
 justinndidit/justinndidit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
