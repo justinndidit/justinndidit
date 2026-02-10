@@ -1,80 +1,74 @@
 # 👋 Hi, I'm Surgee
 
-Backend Engineer • Systems Builder • Finance & Infrastructure Enthusiast
+Backend Engineer • Go & Java Developer • Fintech & Infrastructure Enthusiast
 
 ---
 
 ## 🚀 About Me
 
-I'm a **backend-focused software engineer** with a strong interest in **financial systems, distributed infrastructure, and high-performance backend services**. I enjoy building systems that are **scalable, correct, and resilient**, and I care deeply about **engineering fundamentals** — not just frameworks.
+I'm a backend-focused engineer interested in building **scalable, reliable, and performance-driven systems**.  
+I focus on practical backend engineering: APIs, microservices, distributed systems, and financial infrastructure.
 
-I'm currently on a long-term path to becoming a **top-tier backend **, combining **strong computer science fundamentals**, **systems thinking**, and **practical production experience**.
-
----
-
-## 🧠 What I Focus On
-
-### Backend & Systems
-
-* Designing **scalable backend architectures**
-* Building **microservices** with clear boundaries
-* Real-time systems (video conferencing, messaging, notifications)
-* API design (REST, gRPC)
-* Event-driven systems (Kafka, RabbitMQ)
-
-### Languages
-
-* **Java** – Spring Boot, backend services, enterprise-grade systems
-* **Go** – concurrency-heavy services, infra-style backends
-  
-### Infrastructure & Tooling
-
-* Docker & containerized deployments
-* Distributed systems concepts
-* Message brokers & streaming
-* Linux-based development environments
+I enjoy solving real engineering problems with **clean architecture, strong fundamentals, and production-minded design.**
 
 ---
 
-## 💡 Interests
+## 🔧 Tech Stack
 
-* Fintech & financial infrastructure
-* Distributed systems & networking
-* Backend performance & reliability
-* Open-source collaboration
+**Languages**
+- Go, Java, Python
 
----
+**Backend**
+- Spring Boot, REST APIs, gRPC  
+- Microservices architecture  
+- Authentication & API design  
 
-
-## 🧩 How I Think About Engineering
-
-* **Correctness before cleverness**
-* **Simple systems scale better**
-* Clear abstractions > magical frameworks
-* Understand the system **from the bottom up**
-
-I care about *why* things work, not just *how* to use them.
+**Infrastructure**
+- Docker & containerization  
+- Message brokers (Kafka / RabbitMQ)  
+- Linux environments  
+- CI/CD basics
 
 ---
 
-## 🌍 Open to
+## 🏗 Featured Projects
 
-* Backend / infrastructure roles
-* Fintech & systems-heavy teams
-* Open-source collaboration
-* Internships & early-career backend roles
+### 🔹 Nexus – Fintech Microservice Backend (Go)
+A service-oriented fintech backend designed around modular services and clean architecture.
 
----
-
-## 📫 Let's Connect
-
-* GitHub: You're already here 😉
-* email: olasojifavour2021@gmail.com
-* x (twitter): justinndidit
-* linkedin: https://www.linkedin.com/in/olasoji-favour
-
-If you're building something **serious**, **technical**, or **impactful**, I'd love to talk.
+**Tech:** Go, REST APIs, PostgreSQL, Docker  
+**Focus:** financial workflows, modular backend design  
+👉 [https://github.com/justinndidit/nexus]
 
 ---
 
-> "Great engineers don’t just write code — they design systems that survive reality."
+### 🔹 Indexer – Ethereum Data Indexing Pipeline (Go)
+A scalable pipeline for indexing blockchain data and exposing it via GraphQL.
+
+**Tech:** Go, GraphQL, concurrency, data pipelines  
+👉 [https://github.com/justinndidit/nexus]
+
+--
+---
+
+## 🌱 Currently Learning
+
+- Distributed systems patterns  
+- Kafka & event-driven architectures  
+- Backend performance optimization  
+
+---
+
+## 🌍 Open To
+
+- Backend internships & junior roles  
+- Fintech / infrastructure teams  
+- Open-source collaboration  
+
+---
+
+## 📫 Contact
+
+- Email: olasojifavour2021@gmail.com  
+- Twitter: @justinndidit  
+- LinkedIn: linkedin.com/in/olasoji-favour  
