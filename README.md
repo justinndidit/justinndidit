@@ -33,22 +33,13 @@ I enjoy solving real engineering problems with **clean architecture, strong fund
 
 ## 🏗 Featured Projects
 
-### 🔹 Nexus – Fintech Microservice Backend (Go)
-A service-oriented fintech backend designed around modular services and clean architecture.
+### 🔹 AgentFlow - AI agent orchestration platform
+Think of it as Kubernetes for AI agents — you bring the worker, Agentflow handles scheduling, lifecycle, cancellation, observability, and scale.
 
-**Tech:** Go, REST APIs, PostgreSQL, Docker  
-**Focus:** financial workflows, modular backend design  
-👉 [https://github.com/justinndidit/nexus]
+**Tech:** Go, distributed systems, Docker  
+**Focus:** AI agent orchestration
+👉 [https://github.com/justinndidit/agentflow]
 
----
-
-### 🔹 Indexer – Ethereum Data Indexing Pipeline (Go)
-A scalable pipeline for indexing blockchain data and exposing it via GraphQL.
-
-**Tech:** Go, GraphQL, concurrency, data pipelines  
-👉 [https://github.com/justinndidit/nexus]
-
---
 ---
 
 ## 🌱 Currently Learning
